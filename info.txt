@@ -1,4 +1,2 @@
 ## Este es un ejemplo...
 # Prueba Jossue
-### Modificacion de Javier Ugalde
-### Nuevo comentario de JavierC 
