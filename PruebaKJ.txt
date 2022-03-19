@@ -1,0 +1,2 @@
+# Consulta SQL
+## select id_cliente, nombre from cliente where id_cliente not in(select id_cliente from venta);
