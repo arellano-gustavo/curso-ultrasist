@@ -1,0 +1,1 @@
+##Select nombre, cantidad from ventas where cantidad<10;
