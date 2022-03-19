@@ -1,3 +1,10 @@
 ## Este es un ejemplo...
 # Prueba Jossue
+<<<<<<< HEAD
 ### Ultimo texto agregado
+=======
+
+##_## linea 3 (tres) agregado por aarón
+#_#_#linea cuatro  (4) modificada por ClaudiaLopez
+
+>>>>>>> b32da8a9a6ae2a02ac5b9fccf12dd70eb17f23a2
