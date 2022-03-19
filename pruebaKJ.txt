@@ -1,2 +1,6 @@
-# Consulta SQL
-## select id_cliente, nombre from cliente where id_cliente not in(select id_cliente from venta);
+
+
+## (Jossue)select id_cliente, nombre from cliente where id_cliente not in(select id_cliente from venta);
+
+##(Kasandra)Select nombre, cantidad from ventas where cantidad<10;
+
