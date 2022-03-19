@@ -1,7 +1,4 @@
 ## Este es mi archivo  txt
 #prueba kasandra
 #Jossue
-
-###generando conflicto por claudia e isabel
-
-
+Otro GOOSE !!!!!
