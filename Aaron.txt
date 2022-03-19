@@ -1,6 +1,10 @@
 ## Este es mi archivo de prueba
 # Fin de archivo
 #indra 
+<<<<<<< HEAD
 hola
 
 Seguimos en el curso de git 
+=======
+ALGO
+>>>>>>> 6b2fce6751fe076b0044fbb86a82050ad549f9cd
