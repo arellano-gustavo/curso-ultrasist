@@ -12,4 +12,5 @@ tarea: documento (muy bien presentado) explicatorio de Github incluyendo:
    - creación de un pull request (y razones de su existencia)
    - significado de "merge"
    - todo detalle adicional que yo haya presentado aqui, durante la expo, pero que se me haya olvidado escribir en estos bullets.
+   - incluir explicación de lo que es un conflicto de merge, porque se da y como solucionarlo
    
