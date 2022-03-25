@@ -1,0 +1,2 @@
+##Esta no generará ningun conflicto a la hora de hacr un request
+##Esta linea generará un conflicto en el requestPull 

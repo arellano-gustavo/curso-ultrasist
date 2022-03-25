@@ -1,3 +1,10 @@
+
 ## Archivo de prueba del curso Ultrasist
 # Actualizacion del archivo txt
 Aarón
+
+## Esta linea generara conflicto desde rama Brian
+##_## esta linea desde mi rama'aaron' ya no genera conflicto
+mi color fav es azul
+
+
