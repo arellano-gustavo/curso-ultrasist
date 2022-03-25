@@ -4,3 +4,6 @@ Aarón
 
 ## Esta linea generara conflicto desde rama Brian
 ##_## esta linea desde mi rama'aaron' ya no genera conflicto
+
+Rama Develop: Contiene los cambios aprobados
+Rama BrianMartinez: Contiene los cambios que estan siendo desarrollados
