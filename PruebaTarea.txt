@@ -2,5 +2,3 @@
 # Ejemplo de un fichero 
 ### Creado en rama Jossue
 --------------------------------------------
-#Este archivo fue modificado por Kasandra :)
-#prueba para tarea
