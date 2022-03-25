@@ -1,4 +1,20 @@
 #este es mi archivo de prueba
 Fin de archivo.
 Aqui estuvo Javier Ugalde :P
-Morado
+
+También aqui estuvo Goose
+
+tarea: documento (muy bien presentado) explicatorio de Github incluyendo:
+   - registro
+   - objetivo
+   - obtencion del personal access token
+   - uso de rama develop para concentrar archivos de todos
+   - creacion de ramas personales
+   - creación de un pull request (y razones de su existencia)
+   - significado de "merge"
+   - todo detalle adicional que yo haya presentado aqui, durante la expo, pero que se me haya olvidado escribir en estos bullets.
+   - incluir explicación de lo que es un conflicto de merge, porque se da y como solucionarlo
+   
+
+####Morado
+
