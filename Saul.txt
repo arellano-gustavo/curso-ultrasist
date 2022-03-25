@@ -1,3 +1,5 @@
 ## Este es mi archivo
 # Fin del archivo
 # Kasandra
+
+Mi color favorito es Morado
