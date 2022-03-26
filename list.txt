@@ -1,0 +1,18 @@
+   1  cat .git/config
+https://github.com/arellano-gustavo/curso-ultrasist.git
+
+
+   2  git config --global user.name "Gustavo Arellanini"
+   3  git config --global user.email "garellanos@ultrasist.com.mx"
+   4  git config -l
+   5  git config --global credential.helper cache
+
+
+
+
+
+
+
+
+Este es solo un tip:  git clone 
+https://github.com/arellano-gustavo/curso-ultrasist.git

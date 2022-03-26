@@ -1,6 +1,26 @@
-## Este es mi archivo de prueba
+    1  git branch
+    2  ls
+    3  vim Aaron.txt 
+    4  cat Aaron.txt 
+    5  git status
+    6  git add Aaron.txt 
+    7  git commit -m "Prueba de actualizacion"
+    8  git pull
+    9  git status
+   10  git push
+   11  history 
+   12  history  > Aaron.txt 
+
+Este archivo fue modificado con la salida de 'History > Aaron.txt'
+Esto de abajo es lo que tenía el documento, antes de ser sobreescrito por el comando 
+de arriba
+
+ ## Este es mi archivo de prueba
 # Fin de archivo
 #indra 
-ALGO
-Yo soy Goose !!!!!
 
+##Aquí estuvo Jossue desde la rama de kassandre :=)
+
+
+Mi color favorito es el azul
+Agregando lineas al documento.
