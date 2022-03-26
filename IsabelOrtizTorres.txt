@@ -1,5 +1,0 @@
-##Este es mi archivo 
-#fin de archivo
-
-###ClaudiaLopez
-Mi color favorito es Azul 

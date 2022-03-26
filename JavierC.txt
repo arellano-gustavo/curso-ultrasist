@@ -1,7 +1,0 @@
-## Este es mi archivo de prueba
-# Fin de archivo
-Isabel Ortiz Torres
-
-# Agregando una nueva línea para el pull request.
-**********
-Color azul
