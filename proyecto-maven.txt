@@ -1,0 +1,18 @@
+mvn archetype:generate \
+-DgroupId=ToolsQA \
+-DartifactId=DemoMavenProject \
+-DarchetypeArtifactId=maven-archetype-quickstart \
+-DinteractiveMode=false
+
+
+─ DemoMavenProject
+    ├── pom.xml
+    └── src
+        ├── main
+        │   └── java
+        │       └── ToolsQA
+        │           └── App.java
+        └── test
+            └── java
+                └── ToolsQA
+                    └── AppTest.java
