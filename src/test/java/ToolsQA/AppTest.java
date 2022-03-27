@@ -23,7 +23,22 @@ public class AppTest extends TestCase {
     public static Test suite() {
         return new TestSuite(AppTest.class);
     }
-
+    public void testDivide() {
+        App app = new App();
+        int res = app.divide(-7, -7);
+        int esperado = 1;
+        assertTrue(esperado == res);
+        
+        try {
+          res = app.divide(-7, 0);
+          System.out.println("esta linea nunca se debería ejecutar !!!!!");
+          assertTrue(false);
+        } catch(Exception e) {
+          System.out.println("ouch....");
+          assertTrue(true);
+        }
+        
+    }
     /**
      * Rigourous Test :-)
      */
