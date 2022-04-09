@@ -5,14 +5,23 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
+import curso.api.model.Persona;
+import curso.api.service.PersonaService;
+
 @RestController
 @RequestMapping(value = "/api")
 public class PrimeroController {
+    private PersonaService ps;
+    
+    public PrimeroController(PersonaService ps) {
+        this.ps = ps;
+    }
+    
     @GetMapping(
             path = "/saluda",
             produces = "application/json; charset=utf-8")
-    public String hola(@RequestParam String token) throws Exception {
-        String tmp = "{'usr': '"+token+"'}";
-        return tmp.replace("'", "\"");
+    public Persona hola(@RequestParam String token) throws Exception {
+        int id = ps.convierte(token);
+        return ps.getPersona(id);
     }
 }
