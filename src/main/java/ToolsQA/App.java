@@ -2,7 +2,7 @@ package ToolsQA;
 
 public class App  {
     public static void main( String[] args ) {
-        System.out.println( "Hola Kasandra4, eres el boss 2 " );
+        System.out.println( "Hola gustavo, eres el boss 2 " );
     }
     public int suma(int a, int b) {
         return a+b;
