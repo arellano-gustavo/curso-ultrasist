@@ -1,5 +1,6 @@
-package ToolsQA;
+package curso;
 
+import curso.App;
 import junit.framework.Test;
 import junit.framework.TestCase;
 import junit.framework.TestSuite;
