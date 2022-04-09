@@ -21,4 +21,15 @@ public class PersnaServiceImpl implements PersonaService {
         }
     }
 
+    @Override
+    public Persona update(Persona p) {
+        Persona fromDataBase = new Persona(4, "adolfo", "sandoval");
+        // encuentra en la base de dfatos el objeto persona
+        // y una vez encontrado, actualizalo con los datos 
+        // que estás recibiendo
+        fromDataBase.setApPat(p.getApPat());
+        fromDataBase.setNombre(p.getNombre());
+        return fromDataBase;
+    }
+
 }
