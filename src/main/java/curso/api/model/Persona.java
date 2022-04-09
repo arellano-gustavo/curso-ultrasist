@@ -9,7 +9,6 @@ public class Persona {
     }
     
     public Persona(int id, String nombre, String apPat) {
-        super();
         this.id = id;
         this.nombre = nombre;
         this.apPat = apPat;
